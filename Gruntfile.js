@@ -1,8 +1,8 @@
 /*
- * grunt-mean-compass
- * https://github.com/AlmogBaku/grunt-mean-compass
+ * grunt-mean-less
+ * https://github.com/adeb6600/grunt-mean-less
  *
- * Copyright (c) 2014 AlmogBaku
+ * Copyright (c) 2015 Adeb6600
  * Licensed under the MIT license.
  */
 
